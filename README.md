@@ -1,5 +1,5 @@
 # Galeria-de-fotos
-<p>Iserir fotos na galeria, através de um link da url da imagem.</p>
+<p>Adicionar fotos na galeria, através de um link da url da imagem.</p>
 
 
 <p>Saiba mais acessando o site <a href="https://stanley-felix-bergamo.github.io/Galeria-de-fotos/">Clicando aki</a></p> 
